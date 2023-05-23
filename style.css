@@ -1,0 +1,42 @@
+p {
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-size: 30px;
+}
+
+h1 {  
+  text-align: center;
+  font-weight: bold;
+  background-color: rgb(224, 113, 34);
+
+}
+
+h2 {
+text-align: center;
+color: chocolate;
+font-style:oblique;
+background-color: rgb(0, 0, 0);
+
+}
+ 
+.imagem {
+display:grid;
+margin-left:auto;
+margin-right: auto;
+max-width: 1000px;
+
+}
+
+h4 {
+text-align:left;
+color: coral;
+font-size: 40px;
+
+}
+
+ul{
+text-align: left;
+font-size: 25px;
+
+}
+
