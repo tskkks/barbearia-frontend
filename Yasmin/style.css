@@ -1,26 +1,51 @@
 p {
-    color: orange;
+    color: rgb(255, 255, 255);
     text-align: justify;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 h1 {  
   text-align: center;
   font-weight: bold;
-  background-color: chocolate;
+  background-color: rgb(165, 73, 8);
+  color: aliceblue;
 
 }
 
 h2 {
 text-align: center;
 font-style: italic;
+color: aliceblue;
 
 }
  
 .center {
 display: block;
-margin-left: auto;
+margin-left: 0cap;
 margin-right: auto;
 max-width: 1000px;
 
 }
+
+h4 {
+  text-align:center;
+  color: coral;
+  font-size: 40px;
+  color: rgb(250, 121, 1);
+  
+  }
+  
+  ul{
+  text-align: center;
+  font-size: 25px;
+  color: aliceblue;
+
+  
+  }
+
+  body{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/001/944/116/original/red-fire-smoke-with-flying-particle-embers-looping-background-free-video.jpg)
+  }
+
+  
+  
